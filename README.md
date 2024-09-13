@@ -10,7 +10,7 @@
 **Resumen / conclusiones:**  
 ...
   
-**Dependencias:**
+**Dependencias:**  
 ...
   
 **Instrucciones de ejecución:**  
